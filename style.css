@@ -1,0 +1,200 @@
+#bannerSectionNav{
+    color: rgb(182, 12, 12);
+}
+
+#navHR{
+    color: rgb(73, 73, 73);
+    width: 180px;
+   top: 24px;
+   left: 58px;
+   border-top: 2px solid gray;
+}
+
+#bannerBtn{
+    background-color: #b00000;
+}
+
+#bannerBtn:hover{
+    background-color: #ee0505;
+    transition: 0.7s;
+}
+
+.cardPara{
+    font-size: 14px;
+}
+
+#switchDiv1{
+    width: 60px;
+    height: 33px;
+    background-color: #b00000;
+}
+
+#switchDiv2{
+    width: 22px;
+    height: 22px;
+    background-color: #ffffff;
+}
+
+#cardNav1{
+    color: #b00000;
+    padding-right: 120px;
+    padding-left: 120px;
+}
+
+#cardNav2{
+    color: #b1aeae;
+    padding-right: 120px;
+    padding-left: 120px;
+}
+
+#getInTouchSection{
+    background-image: url(./Images/CTA.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 60vh;
+padding-top: 100px;
+}
+
+#getInTouchSection>h1{
+    padding-bottom: 30px;
+}
+
+footer{
+    background: #b00000;
+}
+
+#footerImgDiv
+{
+    width: 27%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:576px) {
+  
+    body{
+        text-align: center;
+    }    
+    
+footer p{
+    font-size: 14px;
+}
+
+#cardNav1{
+    padding-right: 40px;
+    padding-left: 40px;
+}
+
+#cardNav2{
+    padding-right: 40px;
+    padding-left: 40px;
+}
+
+#getInTouchSection{
+    background-size:contain;
+    height: 25vh;
+    padding-top: 20px;
+    
+}
+
+#getInTouchSection>h1{
+    padding-bottom: 2px;
+    font-size: 20px;
+}
+
+
+
+#footerImgDiv
+{
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
